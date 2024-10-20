@@ -1,6 +1,6 @@
 import React from 'react'
 import Cardpart1 from './cardpart1'
-import Card from './cards'
+import Cards from './cards'
 import Chat from './chatbox'
 
 function Dashboard() {
@@ -8,7 +8,7 @@ function Dashboard() {
     <>
     <div>
       <Cardpart1></Cardpart1>
-      <Card></Card>
+      <Cards></Cards>
       <Chat></Chat>
     </div>
     </>
