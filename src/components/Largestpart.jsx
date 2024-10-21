@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Largestpart1 from './Largestpart1'
-import Vertical2card from './vertical2card'
-import Vertical2card1 from './vertical2card1'
+import Vertical2card from './Vertical2card'
+import Vertical2card1 from './Vertical2card1'
 
 function Largestpart() {
   return (
