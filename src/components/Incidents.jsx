@@ -24,7 +24,7 @@ function Incidents() {
     
     <div className='bg-white h-10 w-44 rounded-sm flex  top-[-567px]'>
     
-    <img className='h-10' src="../../public/searchicon.png" alt="" />
+    <img className='h-10' src="searchicon.png" alt="" />
     
     <input placeholder='Search Incident' />
     

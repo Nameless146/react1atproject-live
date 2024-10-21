@@ -63,7 +63,7 @@ const [isOpen, setIsOpen] = useState(false);
           <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex-shrink-0">
               <a href="/" className="text-white text-lg font-bold">
-              <img className='mt-3 ml-9 h-10 w-32 md:w-36 lg:w-36 sm:w-36' src='../../public/logo.png' />
+              <img className='mt-3 ml-9 h-10 w-32 md:w-36 lg:w-36 sm:w-36' src='logo.png' />
               </a>
             </div>
             <div className="hidden sm:block sm:ml-6">
@@ -87,8 +87,8 @@ const [isOpen, setIsOpen] = useState(false);
                 </a>
 
                 <div className='flex py-4 space-x-5' >
-  <img className='h-10' src="../../public/notification.png" alt="" />
-  <img className='h-10 rounded-3' src="../..//public/profilepic.png" alt="" />
+  <img className='h-10' src="notification.png" alt="" />
+  <img className='h-10 rounded-3' src="profilepic.png" alt="" />
   <div className=''>
     <h3>Usman Zafar</h3>
     <p>usmanzafar@gmail.com</p>

@@ -26,7 +26,7 @@ function IncidentTitle() {
     
     
     
-    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="../../public/stepbar.png" alt="" />
+    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="stepbar.png" alt="" />
     
     
    

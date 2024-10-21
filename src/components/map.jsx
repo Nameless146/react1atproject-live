@@ -27,7 +27,7 @@ function Map () {
     
     
     
-    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="../../public/stepbar.png" alt="" />
+    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="stepbar.png" alt="" />
     
     
    
@@ -75,19 +75,19 @@ function Map () {
 
 
 <div className='flex bg-white  rounded-xl'>
-  <img src="../../public/searchicon.png" className='h-7 w-7 mt-3 ml-5' alt="" />
+  <img src="searchicon.png" className='h-7 w-7 mt-3 ml-5' alt="" />
   <input className='h-12 w-64 text-left rounded-lg' type="text" placeholder='Enter incident address or GPS'/>
 </div>
 
 <div className='flex bg-white rounded-xl'>
-  <img src="../../public/searchicon.png" className='h-7 w-7 mt-3 ml-5' alt="" />
+  <img src="searchicon.png" className='h-7 w-7 mt-3 ml-5' alt="" />
   <input className='h-12 w-64 text-left rounded-lg' type="text" placeholder='Pinpoint damage'/>
 </div>
  
 
 </div>
 
-<img className='md:w-[700px] w-[500px]  md:ml-[400px] rounded-md ml-7 ' src="../../public/map.png" alt="" />
+<img className='md:w-[700px] w-[500px]  md:ml-[400px] rounded-md ml-7 ' src="map.png" alt="" />
 
 
 </div>

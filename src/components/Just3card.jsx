@@ -33,19 +33,19 @@ function Just3card(){
      {/* First row of cards */}
     <div className="  grid md:grid place-items-center      grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 gap-10 ">
         <Card
-          imageSrc="../public/Frame (1).png" 
+          imageSrc="Frame (1).png" 
           title="What type of incident?" 
           description="Choose the category that best describes the incident." 
          
         />
         <Card
-          imageSrc="../public/Frame (2).png" 
+          imageSrc="Frame (2).png" 
           title="Tell us about theincident?" 
          description= "Let’s connect the dots  and see where to start." 
           
         />
         <Card
-          imageSrc="../public/Frame (3).png" 
+          imageSrc="Frame (3).png" 
           title="Where did the incident occur?" 
           description="Lorem ipsum dolar sit general sac mascho werho" 
          

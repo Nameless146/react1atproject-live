@@ -16,7 +16,7 @@ const Card = ({ imageSrc, title, description , para}) => {
 
     < div className="  flex gap-1 bg-white shadow-lg w-28 absolute top-3 ml-48 h-12 rounded-3xl  " >
 
-<img className="mt-4 ml-4 m h-5 " src="../../public/cloud.png" alt="" />
+<img className="mt-4 ml-4 m h-5 " src="cloud.png" alt="" />
 
 <p className="text-sm ml-1 font-bold mt-4 ">Blizzard</p></div>
 

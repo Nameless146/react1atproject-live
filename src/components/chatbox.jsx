@@ -15,7 +15,7 @@ function Chat() {
         className="  p-3 rounded-t-xl cursor-pointer "
         onClick={toggleChat}
       >
-        <img className='w-12' src="../../public/chatbox.png" alt="" />
+        <img className='w-12' src="chatbox.png" alt="" />
       </div>
 
       {/* Chat Box */}
@@ -52,9 +52,9 @@ function Chat() {
           <input type="text" placeholder="Enter your question..." className="p-5 w-72 border h-11 mt-5 " /> 
 
          <div className="flex ml-4 pt-5 gap-2">
-<img className="h-5 mt-1" src="../../public/logo1.png" alt="" />
-    <img className="h-6 mt-1" src="../../public/logo2.png" alt="" />
-    <img className="h-6 mt-1" src="../../public/logo3.png" alt="" />  
+<img className="h-5 mt-1" src="logo1.png" alt="" />
+    <img className="h-6 mt-1" src="logo2.png" alt="" />
+    <img className="h-6 mt-1" src="logo3.png" alt="" />  
     <button className="bg-[#F26922] text-white h-9 w-20 rounded-2xl ml-24 ">Send</button>
 </div>           
           </div>

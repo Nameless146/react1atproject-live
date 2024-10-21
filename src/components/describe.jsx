@@ -30,7 +30,7 @@ function Describes() {
     
     
     
-    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="../../public/stepbar.png" alt="" />
+    <img className='w-96 h-1.5 bg-[#E5E7EB] justify-center mt-4' src="stepbar.png" alt="" />
     
     
    
@@ -59,25 +59,25 @@ function Describes() {
 
 <div className=" grid place-items-center justify-center grid-cols-4 sm:grid-cols-2  lg:grid-cols-6  gap-6     ">
    <Card
-     imageSrc="../public/pic1.png" 
+     imageSrc="pic1.png" 
     
      description="Avalanche" 
      
    />
    <Card
-     imageSrc="../public/pic2.png" 
+     imageSrc="pic2.png" 
     
       description="Biological" 
   
    />
    <Card
-     imageSrc="../public/pic3.png" 
+     imageSrc="pic3.png" 
     
      description="Blizzard" 
    
    />
    <Card
-     imageSrc="../public/pic4.png" 
+     imageSrc="pic4.png" 
     
      description="Cold/Freezing" 
      
@@ -88,25 +88,25 @@ function Describes() {
  {/* Second row of cards */}
 <div className=" grid place-items-center justify-center grid-cols-1 sm:grid-cols-2  lg:grid-cols-6  gap-6   ">
    <Card
-     imageSrc="../public/pic5.png" 
+     imageSrc="pic5.png" 
      
      description="Drought" 
      
    />
    <Card
-     imageSrc="../public/pic6.png" 
+     imageSrc="pic6.png" 
    
       description="Earthquake" 
      
    />
    <Card
-     imageSrc="../public/pic7.png" 
+     imageSrc="pic7.png" 
   
      description="Flooding" 
      
    />
    <Card
-     imageSrc="../public/pic8.png" 
+     imageSrc="pic8.png" 
     
      description="Heat Wave" 
      
@@ -117,25 +117,25 @@ function Describes() {
 {/* Third row of cards */}
 <div className="  grid place-items-center justify-center grid-cols-1 sm:grid-cols-2  lg:grid-cols-6 gap-6 ">
    <Card
-     imageSrc="../public/pic9.png" 
+     imageSrc="pic9.png" 
      
      description="Hail" 
     
    />
    <Card
-     imageSrc="../public/pic10.png" 
+     imageSrc="pic10.png" 
       
       description="Lightning" 
     
    />
    <Card
-     imageSrc="../public/pic11.png" 
+     imageSrc="pic11.png" 
      
      description="Man Made" 
      
    />
    <Card
-     imageSrc="../public/pic12.png" 
+     imageSrc="pic12.png" 
      
      description="Mudslide" 
      
@@ -147,25 +147,25 @@ function Describes() {
  {/* Forth row of cards */}
 <div className="  grid place-items-center justify-center grid-cols-1 sm:grid-cols-2  lg:grid-cols-6 gap-6 ">
    <Card
-     imageSrc="../public/pic13.png" 
+     imageSrc="pic13.png" 
      
      description="Severe Storm" 
     
    />
    <Card
-     imageSrc="../public/pic13.png" 
+     imageSrc="pic13.png" 
       
       description="Strong Wind" 
     
    />
    <Card
-     imageSrc="../public/pic15.png" 
+     imageSrc="pic15.png" 
      
      description="Tornado" 
      
    />
    <Card
-     imageSrc="../public/pic16.png" 
+     imageSrc="pic16.png" 
      
      description="Tsunami" 
      
@@ -176,13 +176,13 @@ function Describes() {
  {/* Fifth row of cards */}
 <div className=" grid  place-items-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-6">
    < Card
-     imageSrc="../public/pic17.png" 
+     imageSrc="pic17.png" 
      
      description="Volcanic Eruption" 
     
    />
    <Card
-     imageSrc="../public/pic18.png" 
+     imageSrc="pic18.png" 
      
      description="Wildfire" 
      

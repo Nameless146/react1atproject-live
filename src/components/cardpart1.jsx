@@ -19,7 +19,7 @@ function Cardpart1(){
     <div className='md:flex grid md:gap-14 gap-3 md:mt-10 mt-4 '>
     
     <div className='bg-white h-10 w-44 rounded-sm flex  top-[-567px]'>
-    <img src="../../public/searchicon.png" alt="" />
+    <img src="searchicon.png" alt="" />
     
     <input placeholder='Search Incident' />
     
