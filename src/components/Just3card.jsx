@@ -16,7 +16,7 @@ function Just3card(){
 <div className="grid gap-6">
 <h1 className="text-4xl font-bold text-center">Let’s get started</h1>
 <p className="text-[#71717A] mt-4 text-center">Lorem ipsum dolar sit general sac mascho werhoLorem ipsum <br /> dolar sit general sac mascho werhoLorem ipsum dolar sit gene</p>
-<img className="md:w-auto w-96 ml-12" src="../../public/Group 1171276283.png" alt="" />
+<img className="md:w-auto w-96 ml-12" src="Group 1171276283.png" alt="" />
 </div>
 
 
