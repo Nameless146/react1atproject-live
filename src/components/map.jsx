@@ -35,7 +35,7 @@ function Map () {
     <div className='md:space-x-6 space-x-4 md:flex flex ml-12 '>
     <button className='bg-white text-black h-10 w-32 rounded-md hover:bg-slate-300'><Link to="/IncidentTitle">Back</Link></button>
     
-    <button className='h-10 w-32 bg-[#F26922] rounded-md text-white hover:bg-orange-400'><Link to='/'>Finished</Link></button>
+    <button className='h-10 w-32 bg-[#F26922] rounded-md text-white hover:bg-orange-400'><Link to="/Largestpart">Finished</Link></button>
     </div>
     
     </div>

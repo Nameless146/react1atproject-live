@@ -8,6 +8,7 @@ import Navbar from "./components/navbar3"
 import IncidentTitle from "./components/incidenttitle"
 import Dashboard from "./components/dashboard"
 import Map from "./components/map"
+import Largestpart from "./components/Largestpart"
 
 
 
@@ -42,6 +43,8 @@ import Map from "./components/map"
 <Route path="/IncidentTitle" element={<IncidentTitle></IncidentTitle>}/>
 
 <Route path="/Map" element={<Map></Map>}/>
+
+<Route path="/Largestpart" element={<Largestpart></Largestpart>}/>
 
 </Routes>
 
